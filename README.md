@@ -438,9 +438,9 @@ This dataset is specifically designed for **gaming analytics** with:
 
 ---
 
-## 📊 Mixpanel Schema Compliance
+## 📊 Schema Compliance
 
-✅ **Fully compliant** with Mixpanel Warehouse Connector requirements:
+✅ **Fully compliant** with some classical Insight tool like Mixpanel Connector requirements:
 
 - **Events**: Required `event_name` and `timestamp`, optional `user_id`, `device_id`, `json_properties`
 - **User Profiles**: Required `user_id` primary key with rich gaming attributes
