@@ -1,4 +1,4 @@
-# Mixpanel Gaming Data - Sample Datasets with User Journeys
+# Gaming Data - Sample Datasets with User Journeys
 
 This package contains **realistic gaming-focused sample datasets** designed for Mixpanel Warehouse Connectors, featuring **consistent user journeys** that track complete player progression through games.
 
